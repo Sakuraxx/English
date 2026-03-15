@@ -1,17 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>My Private English Podcast</title>
+        <title>Cactus Private English Learning Podcast</title>
         <link>https://github.com/Sakuraxx/English</link>
         <description>My personal English learning audio</description>
         <language>en-us</language>
 
         <item>
-            <title>Minimal Pair 01 - 1st Vowel Sound EE/EA (/i/) vs 2nd Vowel Sound IH (/I/)</title>
+            <title>01 - Minimal Pair: 1st Vowel Sound EE/EA (/i/) vs 2nd Vowel Sound IH (/I/) - Slow Version</title>
             <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bNYUHdyQD3TjZiBkNSPhwHgF69T5IiZy"
                 length="11559522" type="audio/mpeg" />
             <pubDate>Sun, 15 Mar 2026 12:14:00 GMT</pubDate>
-            <description>Minimal Pair 01 - 1st Vowel Sound EE/EA (/i/) vs 2nd Vowel Sound IH (/I/)</description>
+            <description>Minimal Pair 01 - 1st Vowel Sound EE/EA (/i/) vs 2nd Vowel Sound IH (/I/) Slow Version</description>
+        </item>
+
+        <item>
+            <title>02 - Minimal Pair: 1st Vowel Sound EE/EA (/i/) vs 2nd Vowel Sound IH (/I/) - Fast Version</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RokDtELTRl9W1SI4ohxjdgJ7igxM150F"
+                length="0" type="audio/mpeg" />
+            <pubDate>Sun, 15 Mar 2026 12:19:00 GMT</pubDate>
+            <description>02_Minimal Pairs 1st Vowel Sound EE_EA (_i_) vs 2nd Vowel Sound IH (_I_) Fast Version</description>
+        </item>
+
+        <item>
+            <title>03 - Minimal Pair: 2nd Vowel Sound IH (/I/) vs 3rd Vowel Sound EH (/ɛ/) - Slow Version</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1n_l0nW97yjvQjNmV8t2Sem8Zi0ypkuCU"
+                length="0" type="audio/mpeg" />
+            <pubDate>Sun, 15 Mar 2026 12:24:00 GMT</pubDate>
+            <description>03_Minimal Pairs 2nd Vowel Sound IH (_I_) vs 3rd Vowel Sound EH (_ɛ_) Slow Version</description>
+        </item>
+
+        <item>
+            <title>04 - Minimal Pair: 2nd Vowel Sound IH (/I/) vs 3rd Vowel Sound EH (/ɛ/) - Fast Version</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YUGOinNlbImObMErNyPMCFy7QdcoSOSF"
+                length="0" type="audio/mpeg" />
+            <pubDate>Sun, 15 Mar 2026 12:29:00 GMT</pubDate>
+            <description>04_Minimal Pairs 2nd Vowel Sound IH (_I_) vs 3rd Vowel Sound EH (_ɛ_) Fast Version</description>
+        </item>
+
+        <item>
+            <title>05 - Minimal Pair: 3rd Vowel Sound EH (/ɛ/) vs 4th Vowel Sound AH (/æ/) - Slow Version</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zfWhd_dj-JkpYSXw5Eu50ZlTD-JsFWIr"
+                length="0" type="audio/mpeg" />
+            <pubDate>Sun, 15 Mar 2026 12:34:00 GMT</pubDate>
+            <description>05_Minimal Paris 3rd Vowel Sound EH (_ɛ_) vs 4th Vowel Sound AH (_æ_) Slow Version</description>
+        </item>
+
+        <item>
+            <title>06 - Minimal Pair: 3rd Vowel Sound EH (/ɛ/) vs 4th Vowel Sound AH (/æ/) - Fast Version</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HPYIdxXrokFqED5J8jOzpZg1H_7Ib9l-"
+                length="0" type="audio/mpeg" />
+            <pubDate>Sun, 15 Mar 2026 12:39:00 GMT</pubDate>
+            <description>06_Minimal Paris 3rd Vowel Sound EH (_ɛ_) vs 4th Vowel Sound AH (_æ_) Fast Version</description>
+        </item>
+
+        <item>
+            <title>07 - Minimal Pair: All Front Vowels - EE vs IH vs EH vs AH - Slow Version</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kVeksM1G3lyHPZhiJ3HALNb0XvPtHDRG"
+                length="0" type="audio/mpeg" />
+            <pubDate>Sun, 15 Mar 2026 12:44:00 GMT</pubDate>
+            <description>07_Minimal Pairs All Front Vowels _ EE vs IH vs EH vs AH _ AH Slow Version</description>
+        </item>
+
+        <item>
+            <title>08 - Minimal Pair: All Front Vowels - EE vs IH vs EH vs AH - Fast Version</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1B7v7WDxy6kLX7HVgqqCdMURPDyxQoj-P"
+                length="0" type="audio/mpeg" />
+            <pubDate>Sun, 15 Mar 2026 12:49:00 GMT</pubDate>
+            <description>08_Minimal Pairs All Front Vowels _ EE vs IH vs EH vs AH _ AH Fast Version</description>
         </item>
     </channel>
 </rss>
