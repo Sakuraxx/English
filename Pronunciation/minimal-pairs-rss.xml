@@ -93,5 +93,37 @@
             <pubDate>Mon, 30 Mar 2026 11:22:00 GMT</pubDate>
             <description>Minimal Pair 11 - 5th Vowel Sound AW (a) vs Schwa Sound UH (ə/ʌ)</description>
         </item>
+
+        <item>
+            <title>Minimal Pair 12: 5th Vowel Sound AW (ɑ) vs 9th Vowel Sound O (o)</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_FGcJZPlUjOR9kwD02fakpInX3j-u_k8"
+                length="10620800 " type="audio/mpeg" />
+            <pubDate>Sat, 05 Apr 2026 18:25:00 GMT</pubDate>
+            <description>Minimal Pair 12 - 5th Vowel Sound AW (ɑ) vs 9th Vowel Sound O (o)</description>
+        </item>
+
+        <item>
+            <title>Minimal Pair 13: Schwa Sound (ʌ/ə) vs High Schwa Sound (ʊ)</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xmfxESxShj7UPuMdU_7v8QiF7dCGZkcS"
+                length="9748437 " type="audio/mpeg" />
+            <pubDate>Sat, 05 Apr 2026 18:25:00 GMT</pubDate>
+            <description>Minimal Pair 13 - Schwa Sound (ʌ/ə) vs High Schwa Sound (ʊ)</description>
+        </item>
+
+        <item>
+            <title>Minimal Pair 14·: The High Schwa Sound (ʊ) vs the U Sound</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=16sQQCM8Muo0sGadieLHkYaiIrfbziCeF"
+                length="5492161" type="audio/mpeg" />
+            <pubDate>Sat, 05 Apr 2026 18:25:00 GMT</pubDate>
+            <description>Minimal Pair 14 - The High Schwa Sound (ʊ) vs the U Sound</description>
+        </item>
+
+        <item>
+            <title>Minimal Pair 15: The High Schwa Sound (ʊ) vs the O Sound (o)</title>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;id=13xqKpey9uSKDKTIlAi7VGrpNItHnhuNL"
+                length="6479518" type="audio/mpeg" />
+            <pubDate>Sat, 05 Apr 2026 18:25:00 GMT</pubDate>
+            <description>Minimal Pair 15 - The High Schwa Sound (ʊ) vs the O Sound (o)</description>
+        </item>
     </channel>
 </rss>
